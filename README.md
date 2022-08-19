@@ -1,1 +1,2 @@
 # odin-recipes
+This is an HTML project to demonstrate the code I have learned through the odin project. I will be following the structure given to me through the odin project. I will be demonstrating my ability to create a solid foundation for html and the ability to move between html pages with orderly files.
